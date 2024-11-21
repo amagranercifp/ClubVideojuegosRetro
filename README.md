@@ -4,7 +4,7 @@
 
 Descripción
 
-Imagen carátula
+![Mario](ClubVideojuegosRetro/hero_chara_mario_pc.png)
 
 [Ver video en YouTube](https://www.youtube.com/watch?v=ID_VIDEO)
 
