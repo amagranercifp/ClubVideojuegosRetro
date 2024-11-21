@@ -10,7 +10,7 @@ Descripción
 
 [Ver video en YouTube](https://www.youtube.com/watch?v=ID_VIDEO)
 
-
+#  Como incluir el primer frame del vídeo de Youtube como imagen para enlazar el video
 [![SuperMario on YouTube](http://img.youtube.com/vi/sgHDIUxR23E/0.jpg)](http://www.youtube.com/watch?v=sgHDIUxR23E "Improve Your Code with Ardalis.GuardClauses")
 
 
