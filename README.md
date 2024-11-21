@@ -4,7 +4,7 @@
 
 Descripción
 
-![Mario](hero_chara_mario_pc.png)
+![Mario](hero_chara_mario_pc.png =100x200)
 
 [Ver video en YouTube](https://www.youtube.com/watch?v=ID_VIDEO)
 
