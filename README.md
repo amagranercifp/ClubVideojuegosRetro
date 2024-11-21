@@ -20,3 +20,9 @@ Descripción
 - Año de publicación:
 
 Enlace -> 
+
+| Juego                 | Plataforma   | Copias | Enlace |
+|-----------------------|--------------|--------|--------|
+| Super Mario Bros      | NES          | 2      | [Ver video en YouTube](https://www.youtube.com/watch?v=YpP5qjBLVQM)      |
+| Street Fighter II     | SNES         | 3      | [Ver video en YouTube](https://www.youtube.com/watch?v=NkRwrudohr8)      |
+| Sonic the Hedgehog    | Sega Genesis | 1      | [Ver video en YouTube](https://www.youtube.com/watch?v=Gsa_4s3CjmI)      |
