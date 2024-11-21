@@ -6,7 +6,7 @@ Descripción
 
 Imagen carátula
 
-Vídeo
+[Ver video en YouTube](https://www.youtube.com/watch?v=ID_VIDEO)
 
 ## Características
 - Plataforma:
