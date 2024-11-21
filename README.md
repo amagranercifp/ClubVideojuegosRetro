@@ -10,9 +10,9 @@ Descripción
 
 [Ver video en YouTube](https://www.youtube.com/watch?v=ID_VIDEO)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sgHDIUxR23E?si=sgHDIUxR23E/0.jpg)](https://www.youtube.com/watch?v=sgHDIUxR23E?si=sgHDIUxR23E)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sgHDIUxR23E?si=0qUFHRNFOB5p0d6B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![SuperMario on YouTube](http://img.youtube.com/vi/sgHDIUxR23E/0.jpg)](http://www.youtube.com/watch?v=sgHDIUxR23E "Improve Your Code with Ardalis.GuardClauses")
+
 
 ## Características
 - Plataforma:
